@@ -1,0 +1,3 @@
+The new file WAS ADDed to this project.
+
+This line is modified this file.
